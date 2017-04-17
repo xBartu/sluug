@@ -1,5 +1,7 @@
 import web
 
+import include.settings
+
 urls = (
   '/', 'index'
 )
