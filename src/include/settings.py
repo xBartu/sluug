@@ -1,4 +1,4 @@
-DATABASE_TYPE = "postgresql"
+DATABASE_TYPE = "postgrsql"
 DATABASE_NAME = ""
 DATABASE_USER = ""
 DATABASE_PASS = ""

@@ -7,4 +7,4 @@ __pycache__/
 *.so
 
 # configute
-src/include/settings.py
+/src/include/settings.py
